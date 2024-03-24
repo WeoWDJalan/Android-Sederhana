@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">AeroStreet</string>
+
+    <string name="about">About</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="profile_name">Muhammad Nabhan Rifai</string>
+    <string name="profile_email">nabhanrifai@gmail.com</string>
+    <string name="profile_me"> Saya adalah mahasiswa S1 di Universitas Dian Nuswantoro Semarang, saya memiliki ambisi kuat untuk belajar hal baru serta menyelesaikan hingga beres</string>
+
+    <string name="shoe_name">Nama Sepatu</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>Aerostreet Classic Natural Natural Hijau Tua</item>
+        <item>Aerostreet Hoops High Putih Hijau Tua Hitam</item>
+        <item>Aerostreet Jisoo Natural Pink Navy</item>
+        <item>Aerostreet X Khong Guan</item>
+        <item>Aerostreet Leopard Putih</item>
+        <item>Aerostreet X Mangkunegaraan</item>
+        <item>Aerostreet Osaka Hitam Hitam Emas</item>
+        <item>Aerostreet Oxford Natural Natural Hijau Tua</item>
+        <item>Aerostreet Riku Putih Biru Tua Merah</item>
+        <item>Aerostreet Tokyo Putih Putih Abu Muda</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Menawarkan gaya klasik dengan sentuhan modern, cocok untuk berbagai kesempatan dengan desain yang elegan dan kenyamanan bahan alami.</item>
+        <item>Memadukan gaya yang sporty dengan desain yang modern, menawarkan kombinasi warna putih, hijau tua, dan hitam yang trendy, menjadikannya pilihan yang stylish dan nyaman untuk gaya kasual sehari-hari.</item>
+        <item>Menghadirkan kombinasi warna yang lembut dan feminin dengan desain natural yang trendi, memberikan sentuhan gaya yang elegan dan nyaman, sempurna untuk menambahkan sentuhan kasual chic pada penampilan sehari-hari.</item>
+        <item>Kolaborasi antara Aerostreet X Khong Guan menghasilkan sepatu yang unik, memadukan gaya kreatif dengan sentuhan kekhasan Khong Guan, menciptakan pilihan sepatu yang penuh karakter dan menyenangkan, cocok untuk mereka yang menginginkan gaya yang berbeda dan penuh semangat.</item>
+        <item>Menawarkan gaya yang berani dengan motif leopard yang elegan pada warna putih, menciptakan paduan modern dan eksentrik yang memukau, cocok untuk mereka yang ingin tampil mencolok dan penuh gaya.</item>
+        <item>Kolaborasi menarik antara Aerostreet X Mangkunegaraan menghasilkan sepatu yang memadukan sentuhan tradisional dengan desain modern, menciptakan pilihan sepatu yang memancarkan keunikan budaya dan gaya, sesuai untuk mereka yang menghargai warisan lokal dan gaya inovatif.</item>
+        <item>Menghadirkan kombinasi warna yang berkelas, dengan sentuhan emas yang mewah pada desain hitam yang elegan, menciptakan pilihan sepatu yang menonjol dan cocok untuk gaya formal maupun acara khusus.</item>
+        <item>Menggabungkan desain klasik Oxford dengan sentuhan modern, menampilkan kombinasi warna alami dan hijau tua yang memberikan kesan elegan, sempurna untuk gaya yang santai namun tetap terlihat rapi.</item>
+        <item>Menghadirkan kombinasi warna yang cerah dan dinamis, dengan desain yang modern dan sporty, menciptakan pilihan sepatu yang energik dan penuh gaya untuk penampilan kasual yang segar.</item>
+        <item>Mengusung desain yang minimalis namun modern, dengan kombinasi warna putih dan abu muda yang memberikan kesan ringan dan stylish, cocok untuk tampilan yang kasual namun tetap trendi di perkotaan.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/classic_putihhijau</item>
+        <item>@drawable/hoops_putihhijau</item>
+        <item>@drawable/jisoo_pinknavy</item>
+        <item>@drawable/khong_guan</item>
+        <item>@drawable/leopard_putih</item>
+        <item>@drawable/mangkunegaraan</item>
+        <item>@drawable/osaka_hitamemas</item>
+        <item>@drawable/oxford_hijau</item>
+        <item>@drawable/riku_putihmerah</item>
+        <item>@drawable/tokyo_putihabu</item>
+    </integer-array>
+    <string name="title_activity_about">about</string>
+    <string name="Detail">
+        TIDAK AKAN JEBOL setelah dicuci atau kehujanan karena menggunakan technologi baru Shoes Injection Mould bahan sole dicairkan dengan tekanan tinggi menyatu sempurna dengan bahan kain dari sepatu tanpa menggunakan proses lem.\n\n
+
+        Bahan : Kanvas - Mesh - Kulit sintetis\n\n
+
+        Panduan ukuran :\n\n
+
+        Ukuran 37 Panjang telapak kaki 23.9 cm\n\
+        Ukuran 38 Panjang telapak kaki 24.6 cm\n
+        Ukuran 39 Panjang telapak kaki 25.2 cm\n
+        Ukuran 40 Panjang telapak kaki 25.9 cm\n
+        Ukuran 41 Panjang telapak kaki 26.6 cm\n
+        Ukuran 42 Panjang telapak kaki 27.2 cm\n
+        Ukuran 43 Panjang telapak kaki 27.9 cm\n
+        Ukuran 44 Panjang telapak kaki 28.6 cm\n\n
+
+        Belanja langsung dari pabrik nya\n
+        now everyone can buy a good shoe\n\n
+
+        RESELLER dan DROPSHIPER very welcome\n
+        dapatkan discount spesial dari pabrik langsung\n\n
+
+        *semua stok dijamin ready\n
+        *Open order 24 jam\n
+        *Fast response jam 08.00-16.00 Senin s/d Sabtu\n
+        *Order diatas jam 09.00 akan di proses pada hari berikutnya\n
+        *Order pada hari minggu dan hari libur Nasional, akan kami proses pada hari kerja\n
+    </string>
+
+    <string name="action_share">Bagikan</string>
+
+</resources>
